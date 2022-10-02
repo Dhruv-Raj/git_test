@@ -12,6 +12,6 @@
 
 >git commit: The `git commit` command captures a sanpshot of the project's currently staged changes.
 
-<!-- ![](image/) -->
+![](image/git_commit.png)
 
 > 
