@@ -25,3 +25,12 @@
 > 7. git merge: The `git merge` command will combine multiple sequences of commit into one unified history. It is used to combine two branches.
 
 ![](image/git_merge.png)
+
+> 8. git diff: The `git diff` command is a multi-use git command. When it is executed, it runs a diff function on git data sources. These data sources can be files, branches, commits, and more. It is used to show changes between commits, commit, and working tree, etc.
+
+![](image/git_diff.png)
+
+> 9. git push: The `git push` command is used to upload local repository content to remote repository. **git push <remote> <branch>**.
+
+![](image/git_push.png)
+
