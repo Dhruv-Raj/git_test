@@ -24,4 +24,4 @@
 
 > 7. git merge: The `git merge` command will combine multiple sequences of commit into one unified history. It is used to combine two branches.
 
-![](image/git_.png)
+![](image/git_merge.png)
